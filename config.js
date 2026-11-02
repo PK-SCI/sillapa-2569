@@ -14,6 +14,6 @@
    ============================================================ */
 
 window.SILLAPA_CONFIG = {
-  APPS_SCRIPT_URL: "",
+  "https://script.google.com/macros/s/AKfycbwYHwQyCd3sgpAE1DOexEvUd6W43cH8v9WwBBguuoiW69aiAL3ke6Il1lFp93ezHQceZQ/exec",
   ALLOW_MULTIPLE_EVENTS: false
 };
